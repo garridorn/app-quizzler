@@ -1,6 +1,8 @@
 import requests
 
 
+#Take the data directly from trivia with API. 
+
 parameters = {
     "amount": 10,
     "type": "boolean"
