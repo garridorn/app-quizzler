@@ -1,7 +1,7 @@
 import requests
 
 
-#Take the data directly from trivia with API. 
+#Take the data directly from trivia with API.
 
 parameters = {
     "amount": 10,
